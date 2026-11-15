@@ -12,5 +12,5 @@ This repository contains my Python programming assignments.
 - Assignment 7
 - Assignment 8
 - Assignment 9 
-
-Submitted as part of my Python coursework.
+- Assignmemt 10
+Submitted as part of my Python Coursework.

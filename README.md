@@ -1,6 +1,6 @@
 # Python Assignments
 
-This repository contains my Python programming assignments.
+This repository contains my Python programming Assignments.
 
 ## Assignments
 - Assignment 1
@@ -13,4 +13,4 @@ This repository contains my Python programming assignments.
 - Assignment 8
 - Assignment 9 
 - Assignmemt 10
-Submitted as part of my Python Coursework.
+- Submitted as part of my Python Coursework.
